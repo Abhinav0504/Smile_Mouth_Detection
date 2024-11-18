@@ -1,3 +1,3 @@
 # Facial Understanding
 
-Facial understanding project for Kodak Alaris
+Facial understanding project in C++ for Kodak Alaris
