@@ -1,0 +1,18 @@
+Command-line Input:
+
+The program takes an image path and an optional flag --mouth-only as command-line arguments.
+Loading Models:
+
+Separate functions to load the face detection model, facial landmarks model, and Keras smile classification model.
+Running Inference:
+
+The RunInference function is used to process the input image and run inference on the models.
+Getting Landmarks:
+
+The GetLandmarks function extracts the landmarks from the output of the landmarks model.
+Mouth Landmarks:
+
+The GetMouthLandmarks function extracts only the mouth landmarks if the --mouth-only flag is set.
+Classifying Smile:
+
+The ClassifySmile function prepares the input for the Keras model, runs the classification, and returns "Smile" or "No Smile" based on the classification score.
