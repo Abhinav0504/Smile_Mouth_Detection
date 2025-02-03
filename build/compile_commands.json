@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/am6176_run.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/am6176_run.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/am6176_run.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/am6176_run.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceLandmark.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceLandmark.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceDetection_am6176.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceDetection_am6176.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/Config.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Config.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Config.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/Config.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/Types.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Types.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Types.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/Types.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/Transforms.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Transforms.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/Transforms.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/Transforms.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/NMS.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/NMS.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/NMS.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/NMS.cpp.o"
+},
+{
+  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
+  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/render.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/render.cpp\"",
+  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/render.cpp",
+  "output": "CMakeFiles/FacialUnderstanding.dir/render.cpp.o"
+}
+]

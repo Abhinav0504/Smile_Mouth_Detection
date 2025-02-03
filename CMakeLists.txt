@@ -103,8 +103,8 @@ target_sources(FacialUnderstanding
 #        ${CMAKE_CURRENT_SOURCE_DIR}/DetectionPostProcess.hpp
 #        ${CMAKE_CURRENT_SOURCE_DIR}/IrisLandmark.cpp
 #        ${CMAKE_CURRENT_SOURCE_DIR}/IrisLandmark.hpp
-#        ${CMAKE_CURRENT_SOURCE_DIR}/FaceLandmark.cpp
-#        ${CMAKE_CURRENT_SOURCE_DIR}/FaceLandmark.hpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/FaceLandmark.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/FaceLandmark.hpp
         ${CMAKE_CURRENT_SOURCE_DIR}/FaceDetection_am6176.cpp
         ${CMAKE_CURRENT_SOURCE_DIR}/FaceDetection_am6176.h
         ${CMAKE_CURRENT_SOURCE_DIR}/Config.cpp
