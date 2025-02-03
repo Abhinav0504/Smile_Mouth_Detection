@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables" -B "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/cmake-build-debug"
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/cmake-build-debug
+Cannot generate into /Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables
+It was created with incompatible generator 'Unix Makefiles'
+
+Please either delete it manually or select another generation directory
