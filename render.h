@@ -42,9 +42,19 @@ struct RectOrOval {
 struct Annotation {
     std::vector<Point> points;
     RectOrOval rect;
-    Color color;
     bool normalized_positions;
     int thickness;
+    Color color;
+
+    bool hasNormalizedPositions() const {
+        // Logic to check for normalized positions (placeholder)
+        return false;
+    }
+
+    Annotation scaled(const cv::Size& imageSize) const {
+        // Scale annotation data to image size (placeholder logic)
+        return *this;
+    }
 };
 
 // Function declarations
