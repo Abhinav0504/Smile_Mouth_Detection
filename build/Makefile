@@ -177,30 +177,6 @@ FaceDetection_am6176.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/FacialUnderstanding.dir/build.make CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.s
 .PHONY : FaceDetection_am6176.cpp.s
 
-FaceLandmark.o: FaceLandmark.cpp.o
-.PHONY : FaceLandmark.o
-
-# target to build an object file
-FaceLandmark.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FacialUnderstanding.dir/build.make CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o
-.PHONY : FaceLandmark.cpp.o
-
-FaceLandmark.i: FaceLandmark.cpp.i
-.PHONY : FaceLandmark.i
-
-# target to preprocess a source file
-FaceLandmark.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FacialUnderstanding.dir/build.make CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.i
-.PHONY : FaceLandmark.cpp.i
-
-FaceLandmark.s: FaceLandmark.cpp.s
-.PHONY : FaceLandmark.s
-
-# target to generate assembly for a file
-FaceLandmark.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/FacialUnderstanding.dir/build.make CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.s
-.PHONY : FaceLandmark.cpp.s
-
 NMS.o: NMS.cpp.o
 .PHONY : NMS.o
 
@@ -336,9 +312,6 @@ help:
 	@echo "... FaceDetection_am6176.o"
 	@echo "... FaceDetection_am6176.i"
 	@echo "... FaceDetection_am6176.s"
-	@echo "... FaceLandmark.o"
-	@echo "... FaceLandmark.i"
-	@echo "... FaceLandmark.s"
 	@echo "... NMS.o"
 	@echo "... NMS.i"
 	@echo "... NMS.s"

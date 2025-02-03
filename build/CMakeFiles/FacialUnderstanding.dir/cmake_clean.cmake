@@ -3,8 +3,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/FacialUnderstanding.dir/Config.cpp.o.d"
   "CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o"
   "CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o.d"
-  "CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o"
-  "CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o.d"
   "CMakeFiles/FacialUnderstanding.dir/NMS.cpp.o"
   "CMakeFiles/FacialUnderstanding.dir/NMS.cpp.o.d"
   "CMakeFiles/FacialUnderstanding.dir/Transforms.cpp.o"

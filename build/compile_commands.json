@@ -7,12 +7,6 @@
 },
 {
   "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
-  "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceLandmark.cpp\"",
-  "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceLandmark.cpp",
-  "output": "CMakeFiles/FacialUnderstanding.dir/FaceLandmark.cpp.o"
-},
-{
-  "directory": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/build",
   "command": "/usr/bin/clang++  -I\"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/include\" -isystem /opt/homebrew/Cellar/opencv/4.10.0_6/include/opencv4 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -I/usr/include -I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -o CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o -c \"/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceDetection_am6176.cpp\"",
   "file": "/Users/abhinav/Documents/MS CS/Sem 5 - Fall 2024/facial-understanding-Smile_Mouth_TF/cpp_delivarables/FaceDetection_am6176.cpp",
   "output": "CMakeFiles/FacialUnderstanding.dir/FaceDetection_am6176.cpp.o"
